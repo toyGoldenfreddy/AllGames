@@ -1,1 +1,1 @@
-<img src="img_girl.jpg" alt="Girl in a jacket">
+<img src="2020_12_21_0t3_Kleki.png" >
