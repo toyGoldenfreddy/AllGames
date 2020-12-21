@@ -1,2 +1,2 @@
-<hyml><body><img src="2020_12_21_0t3_Kleki.png" >
+<hyml><body><img src="Games.png" >
 <H3><a href = "Index.md">back to Iformation page</a></H3></body></html>
